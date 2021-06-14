@@ -8,7 +8,7 @@ namespace test2
         {
             Console.WriteLine("Hello World!");
 
-            int i = 0;
+            // updated
         }
     }
 }
